@@ -1,3 +1,27 @@
+## 0.26.0 (2025-02-18)
+
+### Feat
+
+- delete me
+- delete me
+- delete me
+
+## 0.25.0 (2025-02-18)
+
+### Feat
+
+- delete me
+
+## 0.24.0 (2025-02-18)
+
+### Feat
+
+- delete me
+
+### Fix
+
+- don't push detached tags on race condition
+
 ## 0.23.1 (2024-12-21)
 
 ## 0.23.0 (2024-12-09)
